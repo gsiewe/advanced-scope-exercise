@@ -1,5 +1,7 @@
 # advanced-scope-exercise
 
+```java
+
 class ScopeChallenge {
     private int value = 1;
     private static int staticValue = 10;
